@@ -1,4 +1,4 @@
-# Learning-R
+# Learning-R Notes via Google Docs
 Learning R programming
 
 - Using DataCamp's "Data Analyst with R" Career Track
